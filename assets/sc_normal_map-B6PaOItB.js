@@ -1,0 +1,1 @@
+var e=`/datav/assets/sc_map-ChNJ4iCw.png`,t=`/datav/assets/sc_normal_map-BnEqFUtn.png`;export{e as n,t};
